@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+section.aboutmePhoto {
+	clear: both;
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	padding: 50px;
+}
+
+img.myPicture{
+	width: 300px;
+	height: 300px;
+	border: 10px solid black;
+}
+
+div.textArea{
+	margin: 0 0 0 20px;
+}
+
+h3.imgTitle{
+	line-height: 18px;
+}
+
+p.paraArea {
+	display: flex;
+	flex-direction: column;
+}

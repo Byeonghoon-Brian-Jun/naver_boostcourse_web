@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+section.aboutmeHome {
+	clear:both;
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+article.homeCentents {
+	margin: 40px;
+}
+
+.subLink{
+	background-color: #333;
+	display: inline-block;
+	margin: 10px;
+}
+
+.subLink a{
+	display: block;
+	text-decoration: none;
+	color: #f2f2f2;
+	text-align:center;
+	padding: 100px;
+	box-shadow: 2px 2px 3px 1px black;
+}
+
+.subLink a:hover {
+	background-color: #ddd;
+  	color: black;
+}

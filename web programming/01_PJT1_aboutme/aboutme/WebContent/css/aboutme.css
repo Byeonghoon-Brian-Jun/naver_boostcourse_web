@@ -1,0 +1,9 @@
+section.aboutmeIntro {
+	clear: both;
+	background-color: white;
+	padding: 60px;
+}
+
+article.aboutmeText {
+	margin: 40px;
+}
